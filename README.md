@@ -278,7 +278,10 @@ Updates are pushed as components are validated against real test environments. N
 
 ## 9. References
 
-- Liao, Q. et al. (2025). *Attacking Agentic AI: Empirical Findings from Red Teaming Commercial Computer Use Agents.* Columbia University. — The 10/10 credit card extraction result. Primary empirical basis for the cognitive attack dimension.
+- Liao, Q. et al. (2025). *Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks.* Columbia University. — The 10/10 credit card extraction result. Primary empirical basis for the cognitive attack dimension.
+- Narajala, V.S. and Narayan, O. (2025). *Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents.* arXiv:2504.19956. Amazon Web Services. — ATFAA 9-threat taxonomy across five domains (cognitive, temporal, operational, trust boundary, governance) and SHIELD mitigation framework. Framework source for the six attack dimensions.
+- Raza, S., Sapkota, R., Karkee, M., and Emmanouilidis, C. (2025). *TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems.* arXiv:2506.04133. Vector Institute, Toronto / Cornell University. — Regulatory compliance mapping across EU AI Act, NIST AI RMF, and ISO 42001. Enterprise and regulatory credibility source.
+- Gosmar, D. and Dahl, D.A. (2025). *Sentinel Agents for Secure and Trustworthy Agentic AI in Multi-Agent Systems.* arXiv:2509.14956. Preprint. — Architectural patterns for distributed security layers in multi-agent systems (sidecar, proxy, continuous-listener). Note: prototype only, no peer review.
 - OSFI Guideline E-23 — *Model Risk Management* (revised, effective May 2027). Office of the Superintendent of Financial Institutions, Canada.
 - EU Artificial Intelligence Act (Regulation 2024/1689) — Articles 9-15. European Parliament, August 2024.
 - OWASP Top 10 for Large Language Model Applications (v1.1, 2023).
@@ -297,9 +300,8 @@ Toronto, Ontario, Canada
 
 AI red teaming at Mindrift. Cybersecurity consulting at CyStack. Building an independent AI agent security audit practice for Canadian regulated enterprises.
 
-[LinkedIn](https://www.linkedin.com/in/sumit-giri-0111/) · [GitHub](https://github.com/sumitgiri87)
+[LinkedIn](https://linkedin.com/in/sumitgiri) · [GitHub](https://github.com/sumitgiri)
 
 ---
 
 *This is independent research. No vendor relationship. No affiliation with any of the frameworks or organisations referenced. Findings and methodology represent the author's own work.*
-
