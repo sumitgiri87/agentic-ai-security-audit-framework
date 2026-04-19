@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Test results — local only, never commit
+# May contain sensitive LLM outputs, proprietary payload refinements,
+# and findings data used in client engagements.
+results/
+*.jsonl
+*.txt
