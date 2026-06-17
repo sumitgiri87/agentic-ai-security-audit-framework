@@ -298,13 +298,13 @@ Updates are pushed as components are validated against real test environments. N
 
 ## Author
 
-**Sumit Giri**  
-Security Engineer · AI Red Teamer · PhD Mathematics (Cryptography)  
+**Sumit Giri, PhD**  
+AI Lead at Northwright — building secure agentic AI systems.  
 Toronto, Ontario, Canada
 
-AI red teaming at Mindrift. Cybersecurity consulting at CyStack. Building an independent AI agent security audit practice for Canadian regulated enterprises.
+LLM Security · Adversarial ML · Cryptography.
 
-[LinkedIn](https://linkedin.com/in/sumitgiri) · [GitHub](https://github.com/sumitgiri)
+[LinkedIn](https://linkedin.com/in/sumitgiri) · [GitHub](https://github.com/sumitgiri87)
 
 ---
 
