@@ -236,7 +236,10 @@ Structured templates for producing audit evidence acceptable to regulated-indust
 
 The repository is being built in sequence — methodology before tooling, tooling before templates. The build order follows the engagement workflow.
 
-**Current:** README and methodology foundation.  
+**Current:** methodology foundation and the cross-framework
+[control mapping](methodology/control-mapping.md) — six dimensions mapped to
+OWASP LLM Top 10, NIST AI RMF, MITRE ATLAS, EU AI Act, and OSFI E-23
+([machine-readable CSV](methodology/control-mapping.csv)).  
 **In progress:** Prompt injection test harness and OSFI E-23 compliance mapper.  
 **Planned:** Memory poisoning tests, multi-agent trust boundary tests, evidence templates.
 
@@ -250,7 +253,8 @@ This repository is under active development. The build sequence follows the enga
 
 | Component | Status |
 |---|---|
-| Audit methodology (cognitive + tool dimensions) | 🔄 In progress |
+| Control mapping (6 dimensions → frameworks & regulation) | ✅ Available |
+| Audit methodology (phase structure + evidence per dimension) | 🔄 In progress |
 | Prompt injection test harness | 🔄 In progress |
 | OSFI E-23 compliance mapper | 📅 Planned |
 | EU AI Act Articles 9-15 mapper | 📅 Planned |
