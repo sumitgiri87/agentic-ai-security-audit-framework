@@ -298,13 +298,11 @@ Updates are pushed as components are validated against real test environments. N
 
 ## Author
 
-**Sumit Giri, PhD**  
-AI Lead at Northwright — building secure agentic AI systems.  
-Toronto, Ontario, Canada
+Sumit Giri, PhD · AI security engineer · Toronto
 
 LLM Security · Adversarial ML · Cryptography.
 
-[LinkedIn](https://linkedin.com/in/sumitgiri) · [GitHub](https://github.com/sumitgiri87)
+[LinkedIn](https://www.linkedin.com/in/sumit-giri-0111) · [GitHub](https://github.com/sumitgiri87)
 
 ---
 
